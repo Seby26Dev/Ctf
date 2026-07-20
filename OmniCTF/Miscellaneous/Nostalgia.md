@@ -1,12 +1,7 @@
 
+<img width="1129" height="377" alt="image" src="https://github.com/user-attachments/assets/b582e167-b129-4133-96a1-598c0c52b57a" />
 
-# Nostalgia — Writeup
-
-| | |
-|---|---|
-| **Category** | Miscellaneous |
-| **Points** | 67 |
-| **Flag** | `OmniCTF{ig_bro_have_some_n0stalgiaaa-676767676789}` |
+<img width="756" height="61" alt="image" src="https://github.com/user-attachments/assets/578afd09-4472-49ba-998d-e23d307fd5e2" />
 
 ---
 
