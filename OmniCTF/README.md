@@ -22,7 +22,9 @@
   - [Baccarat](https://github.com/Seby26Dev/Ctf/blob/main/OmniCTF/Miscellaneous/Baccarat.md)
   - [Node](https://github.com/Seby26Dev/Ctf/blob/main/OmniCTF/Miscellaneous/Node.md)
   - [Nostalgia](https://github.com/Seby26Dev/Ctf/blob/main/OmniCTF/Miscellaneous/Nostalgia.md)
-
+- [Game](https://github.com/Seby26Dev/Ctf/tree/main/OmniCTF/Game)
+  - [Permissiondenied](https://github.com/Seby26Dev/Ctf/blob/main/OmniCTF/Game/Permissiondenied.md)
+  - [Shibiu](https://github.com/Seby26Dev/Ctf/blob/main/OmniCTF/Game/Shibiu.md)
 
 
 ---
